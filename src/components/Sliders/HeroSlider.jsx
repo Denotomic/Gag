@@ -11,7 +11,7 @@ const sliderData = [
     maintitle: "Services",
     desp: " Our skilled team of certified technicians are here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
     url: "/appointment",
-    img: "/assets/img/hero/hero_slider_bg_1.png",
+    img: "/assets/img/hero/hero_slider_bg_1.jpg",
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ const sliderData = [
     maintitle: "Services",
     desp: " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
     url: "/appointment",
-    img: "/assets/img/hero/hero_slider_bg_1.jpg",
+    img: "/assets/img/hero/hero_two_slider_bg_1.jpg",
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const sliderData = [
     maintitle: "MAINTENANCE",
     desp: " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
     url: "/appointment",
-    img: "/assets/img/hero/hero_slider_bg_2.jpg",
+    img: "/assets/img/hero/hero_two_slider_bg_2.jpg",
   },
 ];
 
