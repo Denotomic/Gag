@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "img": "/assets/img/service/service_1.jpg",
+        "title": "Performance Upgrades and Customization",
+        "desp": "We specialize in performance upgrades and custom solutions designed to enhance your vehicle’s power, handling, and overall driving experience."
+    },
+    {
+        "id": 2,
+        "img": "/assets/img/service/service_2.jpg",
+        "title": "Engine Diagnostics and Repair",
+        "desp": "Using the latest technology, our technicians quickly identify issues and deliver lasting solutions to restore performance, efficiency, and peace of mind on the road."
+    },
+    {
+        "id": 3,
+        "img": "/assets/img/service/service_3.jpg",
+        "title": "Tire Services",
+        "desp": "From tire inspections and rotations to balancing and replacements, our team provides reliable care and quality service to improve handling, extend tire life, and keep you driving with confidence."
+    },
+    {
+        "id": 4,
+        "img": "/assets/img/service/service_4.jpg",
+        "title": "Brake Repair and Maintenance",
+        "desp": "We provide professional brake repair and maintenance services to keep your vehicle safe and responsive on the road."
+    },
+    {
+        "id": 5,
+        "img": "/assets/img/service/service_5.jpg",
+        "title": "Routine Maintenance and Services",
+        "desp": "We keep your vehicle running efficiently, safely, and reliably. From oil changes and fluid checks to scheduled inspections and tune-ups, our team provides quality care that helps prevent costly repairs and ensures long-term performance"
+    }
+]
